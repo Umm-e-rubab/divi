@@ -1,0 +1,26 @@
+/*
+Theme Name: Divi child
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Author: Elegant Themes
+Author URI: http://www.elegantthemes.com
+Template: Divi
+Version: 3.22.7
+License: GNU General Public License v2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Divi-child
+*/
+
+.main-banner .et_pb_container{height:80vh !important;}
+.main-banner .et_pb_container .et_pb_button_wrapper{position: relative;}
+.main-banner .et_pb_container .et_pb_button{position: absolute;top: 320px;text-transform: uppercase;padding: 15px 30px;box-sizing: border-box;right: -80px;}
+#top-menu-nav #top-menu li{padding-right:45px;margin-top: 10px;}
+#et-top-navigation #et_top_search{width: 160px;margin-top:0;border:1px solid #aaa;padding:5px 10px}
+#et-top-navigation #et_top_search:before {content: "Search";}
+#et-top-navigation #et_top_search #et_search_icon:before{right: 7px;left: auto;top: 8px;font-size: 14px;font-weight: 700;}
+#page-container header.et-fixed-header{background: #FFF}
+.et_pb_section ul.et_pb_tabs_controls {background-color: #fff;}
+#et-secondary-menu {float: right;font-size: 14px;font-weight: 600;color: #999999;}
+#et-secondary-menu ul {list-style: none;display: inline;}
+#et-secondary-menu ul li {word-wrap: break-word;display: inline-block;}
+#et-secondary-menu ul li a {display: block;padding-bottom: 0.75em;margin-right: 25px;}
